@@ -7,7 +7,7 @@ Atuo como desenvolvedor fullstack Java, já trabalhei com React.js e React Nativ
 - :pushpin: Sólido conhecimento em versionamento de código (Git, Github, Bitbucket), Docker, noçoes de CI/CD, Design Patters, metodologia Ágil e UI/UX
 - :hearts: Sou apaixonado por programação, estudo constantemente para aprender habilidades que se alinham ao desenvolvimento web
 
-| [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lauro-ladeira&count_private=true&hide=stars,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauro-ladeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauro-ladeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  |
 | ------------------- | ------------------- |
 
 
