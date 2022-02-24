@@ -1,6 +1,6 @@
 ### Olá, eu sou o Lauro 👋
 
-Atuo como desenvolvedor fullstack (Java | Spring Boot), já trabalhei com React.js e React Native quando era freela e hoje busco por oportunidades de trabalho no frontend :)
+Atuo como desenvolvedor fullstack Java, já trabalhei com React.js e React Native quando era freela e hoje busco por oportunidades de trabalho no frontend :)
 
 - :point_right: 2+ anos de experiência atuando como desenvolvedor
 - :bulb: Minhas principais habilidades: React.js, React Native, Node.js, GraphQL, Java/Spring Boot, Apache Kafka, Flutter
